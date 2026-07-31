@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #f4f6f8;
+}
+
+.app-bg {
+  min-height: 100vh;
+  background-color: #f4f6f8;
+}
+
+.table tbody tr {
+  cursor: pointer;
+}
